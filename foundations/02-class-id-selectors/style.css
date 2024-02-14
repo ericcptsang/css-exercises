@@ -1,0 +1,21 @@
+.pClass{
+    color: black;
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+    font-size: 20px;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#number2 {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: #57f057;
+    font-size: 24px;
+    font-weight: bold;
+}
